@@ -1,6 +1,7 @@
 import _ from 'lodash'
 import './style.css'
 import logo from './logo.png'
+import { NiJou } from './utillities'
 
 function component() {
   const element = document.createElement('div');
